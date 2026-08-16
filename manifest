@@ -1,0 +1,19 @@
+title=Home Assistant Companion
+major_version=1
+minor_version=0
+build_version=0
+mm_icon_focus_fhd=pkg:/images/ha_icon_540x405.png
+mm_icon_focus_hd=pkg:/images/ha_icon_290x218.png
+splash_screen_fhd=pkg:/images/ha_logo_1920x1080.png
+splash_screen_hd=pkg:/images/ha_logo_1280x720.png
+splash_screen_sd=pkg:/images/ha_logo_720x480.png
+ha_wordmark_660x64=pkg:/images/ha_wordmark_660x64.png
+toggle-switch-off-outline_48x48=pkg:/images/toggle-switch-off-outline_48x48.png
+toggle-switch-off-outline_focused_48x48=pkg:/images/toggle-switch-off-outline_focused_48x48.png
+toggle-switch-outline_48x48=pkg:/images/toggle-switch_48x48.png
+toggle-switch-outline_focused_48x48=pkg:/images/toggle-switch-outline_focused_48x48.png
+
+splash_min_time=0
+splash_color=#181818ff
+ui_resolutions = "sd","hd","fhd"
+rsg_version=1.3
