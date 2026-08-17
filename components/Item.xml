@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<component name = "Item" extends = "Group">
+    <interface>
+        <field id = "itemContent" type = "node" onChange = "updateContent"/>
+        <field id = "focusPercent" type = "float" onChange = "updateFocus"/>
+        <field id = "index" type = "integer"/>
+    </interface>
+    <script type = "text/brightscript" uri = "pkg:/components/Item.brs"></script>
+    <children>
+        <Poster
+            id = "poster"
+            width = "48"
+            height = "48"
+        />
+        <Label
+            id = "label"
+            color = "#ffffffff"
+            width = "360"
+            height = "24"
+            translation = "[ 64, 12 ]"
+        />
+    </children>
+</component>
