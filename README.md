@@ -8,7 +8,7 @@ This project is in no way affiliated with Roku, Home Assistant, the Open Home Fo
 
 ## Description
 
-Control Home Assistant devices from Roku using the native Home Assistant API. Currently only ```binary_sensor``` and ```switch``` domains are available.
+Control Home Assistant devices from Roku using the native Home Assistant API. Currently only ```binary_sensor```, ```switch```, and  ```light``` domains are available.
 
 ## Instructions
 
